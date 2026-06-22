@@ -162,7 +162,3 @@ National Institute of Technology, Silchar
 [![GitHub](https://img.shields.io/badge/GitHub-Parthapnath-181717?style=flat&logo=github)](https://github.com/Parthapnath)
 
 ---
-
-## 📄 License
-
-This project is open source and available under the [MIT License](LICENSE).
