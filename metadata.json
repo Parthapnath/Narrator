@@ -1,0 +1,6 @@
+{
+  "name": "Multilingual Audio Story Narrator",
+  "description": "An AI-powered web application that generates creative stories based on user prompts and narrates them with high-quality AI voice personas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
